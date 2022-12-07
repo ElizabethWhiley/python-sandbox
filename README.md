@@ -1,2 +1,2 @@
 # python-sandbox
-- The finished challenges in LeWagon's Web Scraping workshop
+- My answers to the challenges for LeWagon's Web Scraping workshop: https://github.com/lewagon/python-scraping-workshop
