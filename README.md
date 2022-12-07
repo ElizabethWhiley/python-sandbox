@@ -1,2 +1,2 @@
 # python-sandbox
-Projects to learn Python
+- The finished challenges in LeWagon's Web Scraping workshop
